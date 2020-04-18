@@ -1,0 +1,9 @@
+token.txt
+__pycache__/article_id_sql.cpython-37.pyc
+__pycache__/post_creater.cpython-37.pyc
+__pycache__/sql_handlers.cpython-37.pyc
+__pycache__/sql.cpython-37.pyc
+__pycache__/vk_auth.cpython-37.pyc
+loader/__pycache__/database_loader.cpython-37.pyc
+loader/__pycache__/vk_auth.cpython-37.pyc
+loader/vk_auth.py
